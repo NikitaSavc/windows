@@ -1012,7 +1012,7 @@ getLink3() {
     "tiny11" )
       size=3788177408
       sum="a028800a91addc35d8ae22dce7459b67330f7d69d2f11c70f53c0fdffa5b4280"
-      url="tiny11-2311/tiny11%202311%20x64.iso"
+      url="tiny11%2023H2%20x64.iso"
       ;;
     "tiny10" )
       size=3839819776
