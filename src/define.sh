@@ -999,7 +999,7 @@ getLink3() {
   local url=""
   local sum=""
   local size=""
-  local host="https://archive.org/download"
+  local host="https://comss.cloud"
 
   [[ "${lang,,}" != "en" ]] && [[ "${lang,,}" != "en-us" ]] && return 0
 
